@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/redis-queue.iml" filepath="$PROJECT_DIR$/.idea/redis-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/redis-keycancel.iml" filepath="$PROJECT_DIR$/.idea/redis-keycancel.iml" />
     </modules>
   </component>
 </project>
