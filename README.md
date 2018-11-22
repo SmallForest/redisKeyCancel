@@ -9,6 +9,7 @@
 1. 根据callback中的key,去处理业务~这里随意  
 ### Linux配置
 1. 设置守护进程 nohup php psubscribe.php &
-2. 关闭进程 ps aux | grep "nohup php psubscribe.php &" 找到pid 然后kil  
+2. 关闭进程 ps aux | grep "nohup php psubscribe.php &" 找到pid 然后kill  
 3. 设置自动启动  
-参考地址 https://my.oschina.net/marhal/blog/1924622
+### 参考地址
+https://my.oschina.net/marhal/blog/1924622
